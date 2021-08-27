@@ -1,0 +1,195 @@
+/******************************TAG SELECTORS***************************/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Arial Narrow, sans-serif;
+    }
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: fantasy;
+  color: #66BFBF;
+  }
+
+  h2{
+    font-family: fantasy;
+    font-size: 3rem;
+    color: #66BFBF;
+    }
+
+    h3{
+      font-family: fantasy;
+      font-size: 2rem;
+      color: #11999E;
+      }
+
+    a{
+      color: #11999E;
+      margin: 10px 20px;
+      text-decoration: none;}
+
+    a:hover{
+      color: gold;
+    }
+
+
+
+
+    hr {
+      margin-top: 40px;
+      margin-bottom: 40px;
+      border-style: none;
+    border-top-style: dotted;
+    border-color: gold;
+    border-width: 7px;
+    width: 50%;}
+
+
+
+  table{position: relative;
+  left: 39%;}
+
+/******************************CLASS SELECTOR***************************/
+
+  .top{
+    background-color: #FFDEDE;
+    position: relative;
+    padding-top: 100px;
+      }
+
+  .nicest{
+    text-decoration: underline;
+          }
+
+
+  .top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    height: 200px
+
+            }
+
+.second {position: relative;}
+
+  .gifone{
+    width: 20%;
+    position: absolute;
+    left: 150px;
+
+  }
+
+  .giftwo{
+    width: 20%;
+    position: absolute;
+    right: 150px
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 30px;
+    bottom: 100px;
+    height: 400px;
+                }
+
+    .table{
+      left: 44%}
+
+    .person-on {
+      font-weight: normal;
+              }
+
+    .clem-photo{
+        margin-top: 25px;
+        width: 17%
+                }
+
+    .skill-row{
+         width: 30%;
+         margin: auto;
+         line-height: 10px;
+         overflow: auto;
+
+              }
+
+    .sing{
+      width: 30%;
+      float: left;
+
+
+          }
+
+    .beauty{
+      width: 30%;
+      float: right;
+                }
+
+    .skillone {
+    margin-bottom: 12px;
+            }
+
+    .beautydiv{
+      margin-bottom: 20px;
+    }
+
+    .hrm{border-style: none;
+  border-top-style: dotted;
+  border-color: #FFDEDE;
+  border-width: 5px;
+  width: 10%;}
+
+    .bottom-container{
+      background-color: #FFDEDE;
+      padding: 50px 0 20px
+            }
+
+    .footer-link {
+        padding-bottom: 20px
+
+                  }
+
+                  .btn {
+  margin-top: 20px;
+  margin-bottom: 50px;
+   background: #FFDEDE;
+   background-image: -webkit-linear-gradient(top, #FFDEDE, #FFDEDE);
+   background-image: -moz-linear-gradient(top, #FFDEDE, #FFDEDE);
+   background-image: -ms-linear-gradient(top, #FFDEDE, #FFDEDE);
+   background-image: -o-linear-gradient(top, #FFDEDE, #FFDEDE);
+   background-image: -webkit-gradient(to bottom, #FFDEDE, #FFDEDE);
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   color: #66BFBF;
+   font-family: Trebuchet MS;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 16px;
+   border: solid #FFDEDE 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+
+   background: #EEED09;
+   background-image: -webkit-linear-gradient(top, #EEED09, #EEED09);
+   background-image: -moz-linear-gradient(top, #EEED09, #EEED09);
+   background-image: -ms-linear-gradient(top, #EEED09, #EEED09);
+   background-image: -o-linear-gradient(top, #EEED09, #EEED09);
+   background-image: -webkit-gradient(to bottom, #EEED09, #EEED09);
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   text-decoration: none;
+}
+
+  .copyright{
+    font-size: 0.75rem;
+    padding: 20px 0
+
+  }
